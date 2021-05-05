@@ -32,4 +32,4 @@ def divide(dividend, divisor):
 divide(dividend=15, divisor=3)
 divide(15, 0)
 divide(15, divisor=0) # ok
-divide(dividend=14, 0) # Incorrect. Named arguments go after positional arguments
+# divide(dividend=14, 0)  Incorrect. Named arguments go after positional arguments
